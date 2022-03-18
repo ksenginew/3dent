@@ -16,6 +16,8 @@ Try running a simple program:
 go run main.go https://deno.land/std/examples/welcome.ts
 ```
 
+Then open the url you got.
+
 > Note: You can pass a local file name instead of an URL.
 
 ### Examples
