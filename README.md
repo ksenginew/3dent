@@ -6,8 +6,7 @@ A  **lightweight**  runtime for  **JavaScript**  and  **TypeScript**.
 
 ### Installation
 
-3dent ships as a single `.go` with no external dependencies. Just download `main.go`
-
+3dent ships as a single `.go` with no external dependencies. You need to [install Go compiler](https://go.dev/doc/install) to run it. Then just download [`main.go`](https://github.com/ksenginew/3dent/blob/main/main.go).
 
 ### Getting Started
 
@@ -16,7 +15,6 @@ Try running a simple program:
 ```sh
 go run main.go https://deno.land/std/examples/welcome.ts
 ```
-//
 
 > Note: You can pass a local file name instead of an URL.
 
